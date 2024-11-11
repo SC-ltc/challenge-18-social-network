@@ -7,7 +7,7 @@ The objective of this assignment was to build an API for a social network web ap
 
 ## Link to the video demonstration of this project
 
-
+[Video Demonstration](https://app.screencastify.com/v3/watch/1Fu4Mpotjs9YWm5FXh87)
 
 ## Link to the repository for this project
 
